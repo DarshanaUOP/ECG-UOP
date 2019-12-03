@@ -3,7 +3,7 @@
  */
 public class Values {
     String appTitle = "ECG collector - UOP";
-    String appName = "Electrocardiography - UOP";
+    String appName = "Electrocardiography";
     String appOwner = "Faculty of Engineering - University of Peradeniya";
 
     String fileName ;
