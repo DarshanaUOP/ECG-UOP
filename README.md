@@ -29,3 +29,5 @@ Collect menu is used to set the path to save your data into a *csv* file. by cli
 ### Settings
 Under the settings section you can change the appearances of your UI, the following figure is showing the settings window <br>
 <img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/setting.JPG" height = 250><br>
+
+***Note*** : Some components of this application has to update.
