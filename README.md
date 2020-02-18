@@ -20,3 +20,10 @@ The application has three menu components. they are,
 Under the configurations menu it can connect with the [sampler circuit](https://github.com/DarshanaUOP/TIMER_INTERRUPT_ECG_SAMPLER).
 the following figure is showing the UI of the configuration menu <br>
 <img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/config.JPG" height = 120><br>
+
+### Collect
+<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect.JPG" height = 120><br>
+
+Collect menu is used to set the path to save your data into a *csv* file. by click on the *"Select a path to save file"* you can select the path to save your data into the csv file as shown in the folowing figure.<br><img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect 2.JPG" height = 120><br>
+
+
