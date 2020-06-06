@@ -24,7 +24,7 @@ the following figure is showing the UI of the configuration menu <br>
 ### COLLECT
 <img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect.JPG"  width = 100%><br>
 
-Collect menu is used to set the path to save your data into a *csv* file. by click on the *"Select a path to save file"* you can select the path to save your data into the csv file as shown in the folowing figure.<br><img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect 2.JPG" height = 250><br>
+Collect menu is used to set the path to save your data into a *csv* file. by click on the *"Select a path to save file"* you can select the path to save your data into the csv file as shown in the folowing figure.<br><img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect 2.JPG"  width = 100%><br>
 
 ### SETTINGS
 Under the settings section you can change the appearances of your UI, the following figure is showing the settings window <br>
