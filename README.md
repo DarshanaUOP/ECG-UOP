@@ -7,7 +7,7 @@ It is a java application used java swing
 * [*Click here*](https://github.com/DarshanaUOP/TIMER_INTERRUPT_ECG_SAMPLER) to go to the fermware repository of this Application
 ### THE GUI
 Followiing figure is showing the GUI of the system <br>
-<img src = "out/artifacts/ECG_UOP_jar/screenshot/ui.JPG" height = 300><br>
+<img src = "out/artifacts/ECG_UOP_jar/screenshot/ui.JPG" width = 100%><br>
 it shows 3 menu components, a status bar and two plotting areas (*jFreeChart used*) 
 
 ### MENU COMPONENTS
@@ -19,15 +19,15 @@ The application has three menu components. they are,
 ### CONFIGURATIONS
 Under the configurations menu it can connect with the [sampler circuit](https://github.com/DarshanaUOP/TIMER_INTERRUPT_ECG_SAMPLER).
 the following figure is showing the UI of the configuration menu <br>
-<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/config.JPG" height = 120><br>
+<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/config.JPG"  width = 100%><br>
 
 ### COLLECT
-<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect.JPG" height = 120><br>
+<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect.JPG"  width = 100%><br>
 
 Collect menu is used to set the path to save your data into a *csv* file. by click on the *"Select a path to save file"* you can select the path to save your data into the csv file as shown in the folowing figure.<br><img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/collect 2.JPG" height = 250><br>
 
 ### SETTINGS
 Under the settings section you can change the appearances of your UI, the following figure is showing the settings window <br>
-<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/setting.JPG" height = 250><br>
+<img src = "https://github.com/DarshanaUOP/ECG-UOP/blob/master/out/artifacts/ECG_UOP_jar/screenshot/setting.JPG"  width = 100%><br>
 
 ***Note*** : Some components of this application has to update.
