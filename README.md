@@ -5,6 +5,7 @@ It is a java application used java swing
 ### LINKS
 * [*Click here*](https://github.com/DarshanaUOP/ECG-UOP/raw/master/out/artifacts/ECG_UOP_jar/ECG-UOP.jar) to download the jar application.
 * [*Click here*](https://github.com/DarshanaUOP/TIMER_INTERRUPT_ECG_SAMPLER) to go to the fermware repository of this Application
+* [*More description*](http://gotoabszero.000webhostapp.com/view.php?project_id=2) on my website
 ### THE GUI
 Followiing figure is showing the GUI of the system <br>
 <img src = "out/artifacts/ECG_UOP_jar/screenshot/ui.JPG" width = 100%><br>
