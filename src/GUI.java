@@ -163,7 +163,7 @@ public class GUI extends JFrame {
             }
         });
 
-        //collect data panel
+        //collect data panel.
 
         lbCollectName.setIcon(settings.getScaledImage("images/collect.png", 30, 30));
         lbCollectName.setFont(settings.getSubMenuFont());
